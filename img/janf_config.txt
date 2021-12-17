@@ -1,0 +1,5 @@
+[DNS]
+EQUAL,jetbrains.com
+
+[URL]
+PREFIX,https://account.jetbrains.com/lservice/rpc/validateKey.action
